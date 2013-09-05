@@ -1,3 +1,4 @@
 [submodule "worldgen"]
 	path = worldgen
-	url = git@git.upstandinghackers.com:mercator/worldgen.git
+	update = merge
+	url = ../worldgen.git
