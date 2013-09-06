@@ -14,10 +14,9 @@ Metadata
 Introduction
 ============
 
-Cartographer is intended to make it easy for novices to build
-high-quality maps of fictional places collaboratively over the
-internet, and provide a rich tapestry of tools for presenting these
-created worlds.
+Mercator is intended to make it easy for novices to build high-quality
+maps of fictional places collaboratively over the internet, and
+provide a rich tapestry of tools for presenting these created worlds.
 
 At the very minimum, it will provide an OSM-compatible API that can be
 edited using tools such as Potlatch and JOSM, and an openlayers-based
